@@ -32,7 +32,7 @@
 [![GitHub Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nimblen&theme=radical)](http://github-profile-summary-cards.vercel.app/demo.html?username=Nimblen)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimblen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nimblen&theme=radical)](https://git.io/streak-stats)
+
 
 ![Top Langs Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nimblen&theme=radical)
 ![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nimblen&theme=radical)
@@ -64,7 +64,9 @@
   - Celery: Асинхронная обработка задач, включая конвертацию видео.
   - FFmpeg: Конвертация MP4 в HLS для стриминга видео.
 
-- **[DMS](https://github.com/Nimblen/DMS):**  
+- **[DMS](https://github.com/Nimblen/DMS):**
+  Система для управления документами, обеспечивающая хранение, обработку и совместную работу с файлами. Поддерживает уведомления и чаты в реальном времени через WebSocket.
+  
   **Backend**:
   - Django 4.2: Основной фреймворк для реализации серверной логики.
   - Django REST Framework (DRF): Реализация аутентификации и API.
